@@ -1,3 +1,4 @@
+https://github.com/aledeniiz/examen_ordinario_2023_2024_ads
 ALEJANDRO DENIZ SOLANA
 En el ejercicio 1 he creado un programa basico en el que tengo que jugar con la suma de espacios y de asteriscos para crear una estructura de piramide, pero no he podido centrarla
 En el ejercicio 2 he intentado crear un programa con clases pero no he conseguido comparar todos los parametros de las clases a la vez
